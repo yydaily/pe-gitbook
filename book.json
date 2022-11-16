@@ -1,0 +1,8 @@
+{
+	"plugins": [
+		"code",
+		"click-reveal",
+		"page-toc-button",
+		"back-to-top-button"
+	]
+}
